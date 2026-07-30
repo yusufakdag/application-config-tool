@@ -1,4 +1,6 @@
-# Luhmann Kiosk Config Tool
+# Application Config Tool
+
+![Config Tool UI](Screenshot%202026-07-30%20162046.png)
 
 A generic, extensible configuration tool for Windows Desktop applications (e.g., Kiosk applications). It uses reflection and `System.ComponentModel` to automatically generate a rich configuration UI (Property Grid) based on your custom configuration models.
 
